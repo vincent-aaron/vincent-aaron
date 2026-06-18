@@ -50,9 +50,9 @@ A capstone project developed to help manage adjudication records and processes w
 
 An Information Management System currently being developed as a personal learning project to strengthen my Laravel development skills while exploring modern web application practices.
 
-### Runebound
+### Elevating IQ
 
-A 2D platformer game developed in Unity where players battle enemies and bosses using unique abilities such as fireballs and temporary invincibility. The project focuses on gameplay mechanics, character skills, and combat systems.
+A quiz-based educational game developed in Java focused on Information Technology topics. The game challenges players with multiple-choice questions designed to test and improve their IT knowledge, covering programming, computer fundamentals, and related concepts. It uses MySQL for data storage and tracking game progress.
 
 ### LogPose
 

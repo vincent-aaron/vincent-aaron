@@ -78,11 +78,11 @@ A social media application that allows users to create posts, interact with cont
 ## Connect With Me
 
 - Email: vincent4aron@gmail.com
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/vincent-aaron-vicente
 - GitHub: https://github.com/vincent-aaron
 
 ---
 
 ## Career Goal
 
-To begin my career as a software developer where I can contribute to meaningful projects, continue expanding my technical skills, and create solutions that provide real value to users and organizations.
+To begin my career as a developer where I can contribute to meaningful projects, continue expanding my technical skills, and create solutions that provide real value to users and organizations.

@@ -46,10 +46,6 @@ I enjoy building practical software solutions, ranging from information manageme
 
 A capstone project developed to help manage adjudication records and processes within a barangay. Features include document management, OCR integration, AI-assisted support, notifications, and records tracking to improve efficiency and accessibility.
 
-### Observation IMS
-
-An Information Management System currently being developed as a personal learning project to strengthen my Laravel development skills while exploring modern web application practices.
-
 ### Elevating IQ
 
 A quiz-based educational game developed in Java focused on Information Technology topics. The game challenges players with multiple-choice questions designed to test and improve their IT knowledge, covering programming, computer fundamentals, and related concepts. It uses MySQL for data storage and tracking game progress.
@@ -58,9 +54,6 @@ A quiz-based educational game developed in Java focused on Information Technolog
 
 A social media application that allows users to create posts, interact with content, and exchange messages. Developed to explore social networking features, user interaction, and application design.
 
-### Titan Cruise
-
-A booking and management system developed as an academic project using Java in NetBeans. The application manages reservation data and customer information through structured data handling and validation processes.
 
 ---
 

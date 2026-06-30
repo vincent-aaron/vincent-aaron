@@ -42,15 +42,15 @@ I enjoy building practical software solutions, ranging from information manageme
 
 ## Featured Projects
 
-### BPAMIS – Barangay Panducot Adjudication Management Information System(https://github.com/vincent-aaron/barangay-adjudication-mis)
+### [BPAMIS – Barangay Panducot Adjudication Management Information System](https://github.com/vincent-aaron/barangay-adjudication-mis)
 
 A capstone project developed to help manage adjudication records and processes within a barangay. Features include document management, OCR integration, AI-assisted support, notifications, and records tracking to improve efficiency and accessibility.
 
-### Elevating IQ(https://github.com/vincent-aaron/elavating-iq)
+### [Elevating IQ](https://github.com/vincent-aaron/elavating-iq)
 
 A quiz-based educational game developed in Java focused on Information Technology topics. The game challenges players with multiple-choice questions designed to test and improve their IT knowledge, covering programming, computer fundamentals, and related concepts. It uses MySQL for data storage and tracking game progress.
 
-# RuneBound(https://github.com/vincent-aaron/runebound)
+### [RuneBound](https://github.com/vincent-aaron/runebound)
 
 A 2D action-adventure game created using Unity where the player selects a hero class, navigates platforming levels, and defeats enemies using class-specific skills.
 

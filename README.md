@@ -54,6 +54,9 @@ A quiz-based educational game developed in Java focused on Information Technolog
 
 A 2D action-adventure game created using Unity where the player selects a hero class, navigates platforming levels, and defeats enemies using class-specific skills.
 
+### [Titan Cruise](https://github.com/vincent-aaron/titan-cruise)
+Titan Cruise is a reservation management system created to streamline the cruise booking process for both customers and administrators. The system enables users to browse available cruise packages, make reservations, manage booking details, and maintain customer records efficiently. Administrators can organize reservations, update trip information, and monitor customer bookings, resulting in a more organized and user-friendly reservation process.
+
 
 
 ---

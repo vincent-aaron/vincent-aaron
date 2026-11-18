@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Vincent Aaron Vicente, Full-Stack and AI Automation Developer">
+<defs>
+<pattern id="d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.5" fill="#21262d"/></pattern>
+<marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10z" fill="#9198a1"/></marker>
+<clipPath id="c"><rect x="1" y="1" width="1278" height="358" rx="16"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1278" height="358" rx="16" fill="#0d1117"/>
+<rect x="760" y="1" width="519" height="358" fill="url(#d)" clip-path="url(#c)"/>
+<rect x="1" y="1" width="1278" height="358" rx="16" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<rect x="64" y="72" width="44" height="5" rx="2.5" fill="#2dd4bf"/>
+<text x="64" y="118" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" font-weight="600" letter-spacing="1.5" fill="#2dd4bf">FULL-STACK + AI AUTOMATION</text>
+<text x="62" y="186" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#e6edf3">Vincent Aaron Vicente</text>
+<text x="64" y="238" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" fill="#9198a1">I build reliable web apps and AI agents</text>
+<text x="64" y="274" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" fill="#9198a1">that keep people in control.</text>
+<rect x="800" y="92" width="120" height="56" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><text x="860.0" y="127" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" font-weight="600" fill="#e6edf3">Client</text><rect x="948" y="92" width="120" height="56" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><text x="1008.0" y="127" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" font-weight="600" fill="#e6edf3">API</text><rect x="1096" y="92" width="120" height="56" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><text x="1156.0" y="127" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" font-weight="600" fill="#e6edf3">Data</text>
+<line x1="923" y1="120" x2="943" y2="120" stroke="#9198a1" stroke-width="1.75" marker-end="url(#a)"/><line x1="1071" y1="120" x2="1091" y2="120" stroke="#9198a1" stroke-width="1.75" marker-end="url(#a)"/>
+<line x1="1008.0" y1="151" x2="1008.0" y2="206" stroke="#9198a1" stroke-width="1.75" marker-end="url(#a)"/>
+<rect x="800" y="212" width="120" height="56" rx="10" fill="#2dd4bf" stroke="#2dd4bf" stroke-width="1.5"/><text x="860.0" y="247" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" font-weight="600" fill="#06281f">Review</text><rect x="948" y="212" width="120" height="56" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><text x="1008.0" y="247" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" font-weight="600" fill="#e6edf3">Agent</text><rect x="1096" y="212" width="120" height="56" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><text x="1156.0" y="247" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="19" font-weight="600" fill="#e6edf3">Tools</text>
+<line x1="945" y1="240" x2="926" y2="240" stroke="#9198a1" stroke-width="1.75" marker-end="url(#a)"/><line x1="1071" y1="240" x2="1091" y2="240" stroke="#9198a1" stroke-width="1.75" marker-end="url(#a)"/>
+</svg>

@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="Vincent Aaron Vicente, Full-Stack and AI Automation Developer" width="100%">
+  <img src="assets/banner-light.svg" alt="Vincent Aaron Vicente, Software Developer, Full-Stack Developer and AI Automation Developer" width="100%">
 </picture>
 
 <p>
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Software%20%26%20AI%20roles-57606A?style=flat-square" alt="Open to software and AI roles">
 </p>
 
-I'm a full-stack and AI automation developer from Bulacan, Philippines. I build web applications end to end, and LLM agents that handle real work while people stay in charge of the decisions.
+I'm a software developer from Bulacan, Philippines, focused on full-stack development and AI automation. I build web applications end to end, and LLM agents that handle real work while people stay in charge of the decisions.
 
 **BS Information Technology, Cum Laude** · Bulacan State University
 
@@ -29,7 +29,7 @@ AI job-search agent with 31 tools. Finds and scores jobs, drafts applications, f
 <td width="50%" valign="top">
 
 ### [Electro Galaxy](https://github.com/vincent-aaron/electro-galaxy)
-Full-stack e-commerce platform with a product catalog, search, cart, checkout, accounts, order history and an AI shopping assistant.
+Full-stack e-commerce platform with a product catalog, search, cart, checkout, accounts, order history, an admin dashboard and an AI shopping assistant.
 
 `Next.js` `TypeScript` `Supabase` `Gemini API`
 
@@ -39,7 +39,7 @@ Full-stack e-commerce platform with a product catalog, search, cart, checkout, a
 <td width="50%" valign="top">
 
 ### [Tech IMS](https://github.com/vincent-aaron/tech-ims)
-Inventory system for computer laboratories with role-based access, equipment tracking, borrowing and returns, and a reporting dashboard.
+Inventory system for computer laboratories with role-based access, overdue tracking, maintenance tickets, CSV reports and printable QR labels. 81 automated tests.
 
 `Python` `Django` `PostgreSQL`
 

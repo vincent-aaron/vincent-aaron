@@ -1,92 +1,46 @@
-# Hi, I'm Vincent Aaron 👋
+# Hi, I'm Vincent Aaron Vicente
 
-## About Me
+**Software Developer · Full-Stack Developer · AI Automation Developer**
 
-🎓 BS Information Technology Graduate
+I build full-stack web applications and LLM-powered agents that automate real work. I'm a Cum Laude BS Information Technology graduate from Bulacan State University, based in Bulacan, Philippines.
 
-💻 Interested in Software Development, Mobile Development, and Web Development
+[LinkedIn](https://linkedin.com/in/vincent-aaron) · [Email](mailto:vincent4aron@gmail.com)
 
-🌱 Currently improving my skills in PHP, Java, Android Development, MySQL, Unity, and C#
+## Featured projects
 
-🤖 Experienced in using AI tools to support software development, debugging, documentation, and workflow optimization
+### [Electro Galaxy](https://github.com/vincent-aaron/electro-galaxy)
+A full-stack e-commerce platform with a product catalog, search and filters, cart, checkout, authentication, order history, an admin dashboard and an AI shopping assistant.
 
-🚀 Passionate about building systems that solve real-world problems through practical and user-focused solutions
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Gemini API`
 
-I enjoy building practical software solutions, ranging from information management systems and web applications to mobile apps and games, while continuously expanding my knowledge of modern development technologies.
+### [Vera Frei](https://github.com/vincent-aaron/vera-frei)
+An AI job-search agent with 31 tools. It finds and scores jobs, drafts applications, fills company forms and sorts employer replies, and it waits for approval before applying or sending email. Covered by about 950 automated tests.
 
----
+`Python` `LLM agents` `Playwright` `discord.py` `SQLite` `pytest`
 
-## Technical Skills
+### [Tech IMS](https://github.com/vincent-aaron/tech-ims)
+A role-based inventory system for computer laboratories, with borrowing and overdue tracking, maintenance tickets, an activity log, CSV reports and printable QR asset labels. Covered by 81 automated tests.
 
-### Programming Languages
-- PHP
-- Java
-- JavaScript
-- C#
+`Python` `Django` `PostgreSQL` `JavaScript` `CSS`
 
-### Technologies & Tools
-- Android Development (Java)
-- MySQL
-- Firebase
-- Unity
-- Git & GitHub
+### [BPAMIS](https://github.com/vincent-aaron/barangay-adjudication-mis)
+Barangay Panducot Adjudication Management Information System, our capstone project. It manages barangay complaints, hearings and case records, with an AI chatbot and push notifications.
 
-### Additional Experience
-- API Integration
-- REST APIs Integration
-- OCR Integration
-- Service Workers & Push Notifications
-- AI-Assisted Development
-- AI Tool Utilization for Development Workflows
----
+`PHP` `MySQL` `JavaScript` `Tailwind CSS` `OpenRouter API` `Service Workers`
 
-## Featured Projects
+## Tech stack
 
-### [BPAMIS – Barangay Panducot Adjudication Management Information System](https://github.com/vincent-aaron/barangay-adjudication-mis)
+| Area | Tools |
+| --- | --- |
+| **Languages** | Python, JavaScript, TypeScript, PHP, Java, C#, C++, SQL |
+| **Web** | React, Next.js, Django, HTML, CSS, Tailwind CSS, REST APIs |
+| **Databases** | PostgreSQL, MySQL, SQLite, Supabase, Firebase |
+| **AI and automation** | LLM integration, tool calling, AI agents, Playwright |
+| **Tools** | Git, GitHub, pytest, SSH, Unity, VS Code |
 
-A capstone project developed to help manage adjudication records and processes within a barangay. Features include document management, OCR integration, AI-assisted support, notifications, and records tracking to improve efficiency and accessibility.
+## More projects
 
-### [Elevating IQ](https://github.com/vincent-aaron/elavating-iq)
-
-A quiz-based educational game developed in Java focused on Information Technology topics. The game challenges players with multiple-choice questions designed to test and improve their IT knowledge, covering programming, computer fundamentals, and related concepts. It uses MySQL for data storage and tracking game progress.
-
-### [RuneBound](https://github.com/vincent-aaron/runebound)
-
-A 2D action-adventure game created using Unity where the player selects a hero class, navigates platforming levels, and defeats enemies using class-specific skills.
-
-### [Titan Cruise](https://github.com/vincent-aaron/titan-cruise)
-Titan Cruise is a reservation management system created to streamline the cruise booking process for both customers and administrators. The system enables users to browse available cruise packages, make reservations, manage booking details, and maintain customer records efficiently. Administrators can organize reservations, update trip information, and monitor customer bookings, resulting in a more organized and user-friendly reservation process.
-
-
-
----
-
-## Currently Learning
-
-- Laravel Development
-- React Development
-- REST API Development
-- Software Architecture & Best Practices
-- Modern Web Development Technologies
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent-aaron&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-aaron&layout=compact)
-
----
-
-## Connect With Me
-
-- Email: vincent4aron@gmail.com
-- LinkedIn: www.linkedin.com/in/vincent-aaron-vicente
-- GitHub: https://github.com/vincent-aaron
-
----
-
-## Career Goal
-
-To begin my career as a developer where I can contribute to meaningful projects, continue expanding my technical skills, and create solutions that provide real value to users and organizations.
+- **[RuneBound](https://github.com/vincent-aaron/runebound):** 2D action platformer built with Unity and C#
+- **[LogPose](https://github.com/vincent-aaron/logpose):** Android social logging app with Firebase and SQLite
+- **[Elevating IQ](https://github.com/vincent-aaron/elevating-iq):** IT quiz game built with Java
+- **[CineMax](https://github.com/vincent-aaron/cinemax):** cinema ticketing desktop app built with Java Swing
